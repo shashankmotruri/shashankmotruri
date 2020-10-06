@@ -1,5 +1,5 @@
 
-<h2 align="center">:eyes: Hello there!:wave: I am Shashank. :adult:</h2>
+<h2 align="center">:eyes: Hello there!:wave: I am Shashank. :adult:</h2>![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shashankmotruri&repo=shashankmotruri)
 
 
 ![Shashank's Github Stats](https://github-readme-stats.vercel.app/api?username=shashankmotruri&show_icons=true&theme=radical)
