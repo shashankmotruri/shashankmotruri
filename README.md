@@ -1,6 +1,6 @@
 
 <h2 align="left">:eyes: Hello there!:wave: I am Shashank. :adult:</h2>
-![](https://komarev.com/ghpvc/?username=shashankmotruri&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=shashankmotruri&label=PROFILE+VIEWS&color=brightgreen)
 
 ![Shashank's Github Stats](https://github-readme-stats.vercel.app/api?username=shashankmotruri&show_icons=true&theme=radical)
 
