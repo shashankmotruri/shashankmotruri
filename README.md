@@ -1,5 +1,5 @@
 
-<h2 align="center">Hello there!I am Shashank. :wave:</h2>
+<h2 align="center">:eyes: Hello there!:wave: I am Shashank. :adult:</h2>
 
 <p align='center'>
 <a href=""><img height="30" src="https://github.com/shashankmotruri/shashankmotruri/blob/main/icons/dev.png?raw=true"></a>&nbsp;&nbsp;
