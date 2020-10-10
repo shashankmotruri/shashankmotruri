@@ -3,7 +3,7 @@
 
 :eyes: ![](https://komarev.com/ghpvc/?username=shashankmotruri)
 <br><br>
-<img src="icons/minion.gif" align="left" width=100 height=100 transition="ease-in-out">
+<img src="icons/minion.gif" align="left" width=100 height=100>
 <img src="https://media.giphy.com/media/KxbZ21Jnz4YdaLN2co/giphy.gif" align="right" right=0 width=100 height=100>
 <img src="https://media.giphy.com/media/iGSaKnq1Wr2mVilAU5/giphy.gif" align="right" width=100 height=100>
 <br>
