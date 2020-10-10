@@ -5,8 +5,7 @@
 <br><br>
 <img src="https://media.giphy.com/media/KxbZ21Jnz4YdaLN2co/giphy.gif" align="right" width=100 height=100>
 <br>
-<br><br><br><br>
-<hr />
+<br><br><br><br><hr>
 ***:point_right: About Me***<br />
 I am an undergraduate student at Indian Institute of Information Technology, Sri City.I love contributing open source projects.<br><hr><br /><br /><br />
 ***:point_right: Technical Skills***<hr>
