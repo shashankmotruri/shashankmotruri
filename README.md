@@ -1,7 +1,7 @@
 
-<h2 align="left">:eyes: Hello there!:wave: I am Shashank.:raising_hand_man:</h2>
+<h2 align="left">Hello there!:wave: I am Shashank.:raising_hand_man:</h2>
 
-![](https://komarev.com/ghpvc/?username=shashankmotruri)
+:eyes: ![](https://komarev.com/ghpvc/?username=shashankmotruri)
 
 
 
