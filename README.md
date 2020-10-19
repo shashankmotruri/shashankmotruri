@@ -23,6 +23,7 @@ I am an undergraduate student at Indian Institute of Information Technology, Sri
 
 
 <hr>
+
 ***:monocle_face: Find Me on***
 <p align='left'>
 <a href="https://dev.to/shashankmotruri"><img height="30" src="https://github.com/shashankmotruri/shashankmotruri/blob/main/icons/dev.png?raw=true"></a>&nbsp;&nbsp;
