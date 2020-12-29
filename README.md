@@ -10,17 +10,16 @@
 <br><br><br><br><hr>
 ***:point_right: About Me***<br />
 I am an,\
-&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;&nbsp;&nbsp;undergraduate student at Indian Institute of Information Technology, Sri City.<br>
-&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;&nbsp;&nbsp;contributor to open source projects.<br>
-&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;&nbsp;&nbsp;UI-Designer (XD).<br>
-&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;&nbsp;&nbsp;ReactJS,NodeJS,Mern-stack Developer.<br>
+&nbsp;&nbsp;:diamond_shape_with_a_dot_inside&nbsp;&nbsp;undergraduate student at Indian Institute of Information Technology, Sri City.<br>
+&nbsp;&nbsp;:diamond_shape_with_a_dot_inside&nbsp;&nbsp;contributor to open source projects.<br>
+&nbsp;&nbsp;:diamond_shape_with_a_dot_inside&nbsp;&nbsp;UI-Designer (XD).<br>
+&nbsp;&nbsp;:diamond_shape_with_a_dot_inside&nbsp;&nbsp;ReactJS,NodeJS,Mern-stack Developer.<br>
       
  <br><hr>
 ***:point_right: Technical Skills***
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">&nbsp;<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/-javascipt%203-brown?style=flat&logo=javascript&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/-C%20&%20C++-green?style=flat&logo=c%2B%2B&logoColor=ffffff">&nbsp;<img src="https://img.shields.io/badge/-Java -06305b?style=flat&logo=java&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white">\
-<img src="https://img.shields.io/badge/-React-black?style=flat&logo=react&logoColor=blue">&nbsp;<img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=Nodejs&logoColor=green">&nbsp;<img src="https://img.shields.io/badge/-MongoDB-grey?style=flat&logo=mongodb&logoColor=green">&nbsp;<img src="https://img.shields.io/badge/-MongoDB-grey?style=flat&logo=mongodb&logoColor=green">&nbsp;<img src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=yellow">/
-<img src="https://www.flaticon.com/svg/static/icons/svg/552/552226.svg" width="25" height="25">
+<img src="https://img.shields.io/badge/-React-black?style=flat&logo=react&logoColor=blue">&nbsp;<img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=Nodejs&logoColor=green">&nbsp;<img src="https://img.shields.io/badge/-MongoDB-grey?style=flat&logo=mongodb&logoColor=green">&nbsp;<img src="https://img.shields.io/badge/-MongoDB-grey?style=flat&logo=mongodb&logoColor=green">&nbsp;<img src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=yellow">/<img src="https://www.flaticon.com/svg/static/icons/svg/552/552226.svg" width="26" height="26">&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/552/552224.svg" width="26" height="26">&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/552/552225.svg" width="26" height="26">
 <br /><br />
 <hr>
 <p><img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=shashankmotruri&show_icons=true&theme=buefy" alt="Shasahnk's Stats" /></p>
