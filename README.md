@@ -9,11 +9,11 @@
 <br>
 <br><br><br><br><hr>
 ***:point_right: About Me***<br />
-I am an,\
-&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;Undergraduate Student at Indian Institute of Information Technology, Sri City.<br>
-&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;Contributor to open source projects.<br>
-&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;UI-Designer.<br>
-&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;ReactJS,NodeJS,Mern-stack Developer.<br>
+
+<h6>&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;Undergraduate Student at Indian Institute of Information Technology, Sri City.<br><br>
+&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;Contributor to open source projects.<br><br>
+&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;UI-Designer.<br><br>
+&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;ReactJS,NodeJS,Mern-stack Developer.<br></h6>
       
  <br><hr>
 ***:point_right: Technical Skills***
