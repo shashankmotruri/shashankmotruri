@@ -11,9 +11,9 @@
 ***:point_right: About Me***<br />
 
 <h6>&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;Undergraduate Student at Indian Institute of Information Technology, Sri City.<br><br>
-&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;Contributor to open source projects.<br><br>
-&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;UI-Designer.<br><br>
-&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;ReactJS,NodeJS,Mern-stack Developer.<br></h6>
+&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;Love Contributing to open source projects.<br><br>
+&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;Major Projects done so far on ReactJS, Redux, NodeJS, Mern stack.<br><br>
+&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;<br></h6>
       
  <br><hr>
 ***:point_right: Technical Skills***
