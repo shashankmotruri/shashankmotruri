@@ -12,8 +12,8 @@
 
 <h6>&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;I'm an Undergraduate Student at Indian Institute of Information Technology, Sri City.<br><br>
 &nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;I Love Contributing to open source projects.<br><br>
-&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;I'm currently looking for SDE-1 internships.<br><br>
-&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;I have done my major projects done so far on ReactJS, Redux, NodeJS, Mern stack.<br><br>
+&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;I'm Currently looking for SDE-1 internships.<br><br>
+&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;I have done my major projects so far on ReactJS, Redux, NodeJS, Mern stack.<br><br>
 &nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;Text me, if you want to discuss about any project.<br></h6>
       
  <br><hr>
