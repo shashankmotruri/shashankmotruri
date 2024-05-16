@@ -10,10 +10,10 @@
 <br><br><br><br><hr>
 ***:point_right: About Me***<br />
 
-<h6>&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;I'm an Undergraduate Student at Indian Institute of Information Technology, Sri City.<br><br>
-&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;I Love Contributing to open source projects.<br><br>
-&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;I have done my major projects so far on ReactJS, Redux, NodeJS, Mern stack.<br><br>
-&nbsp;&nbsp;:diamond_shape_with_a_dot_inside:&nbsp;&nbsp;Text me, if you want to discuss about any project.<br></h6>
+<h6>&nbsp;&nbsp; :diamond_shape_with_a_dot_inside:&nbsp;&nbsp;I'm an Undergraduate Student at Indian Institute of Information Technology, Sri City.<br><br>
+&nbsp;&nbsp; :diamond_shape_with_a_dot_inside:&nbsp;&nbsp;I Love Contributing to open source projects.<br><br>
+&nbsp;&nbsp; :diamond_shape_with_a_dot_inside:&nbsp;&nbsp;I have done my major projects so far on ReactJS, Redux, NodeJS, Mern stack.<br><br>
+&nbsp;&nbsp; :diamond_shape_with_a_dot_inside:&nbsp;&nbsp;Text me, if you want to discuss about any project.<br></h6>
       
  <br><hr>
 ***:point_right: Technical Skills***
